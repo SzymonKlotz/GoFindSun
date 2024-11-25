@@ -1,0 +1,427 @@
+city,country,population,latitude,longitude,region,continent
+Warsaw,Poland,1651676,52.25,21.0,Eastern Europe,Europe
+Cracow,Poland,755050,50.083333,19.916667,Eastern Europe,Europe
+Wroclaw,Poland,634893,51.1,17.033333,Eastern Europe,Europe
+Poznan,Poland,570352,52.416667,16.966667,Eastern Europe,Europe
+Gdansk,Poland,461865,54.36085,18.658291,Eastern Europe,Europe
+Szczecin,Poland,413658,53.439531,14.593891,Eastern Europe,Europe
+Bydgoszcz,Poland,366452,53.127062,18.019987,Eastern Europe,Europe
+Lublin,Poland,360044,51.25,22.566667,Eastern Europe,Europe
+Katowice,Poland,317316,50.258415,19.027545,Eastern Europe,Europe
+Bialystok,Poland,291855,53.133333,23.15,Eastern Europe,Europe
+Gdynia,Poland,253730,54.5,18.55,Eastern Europe,Europe
+Czestochowa,Poland,248125,50.796455,19.124088,Eastern Europe,Europe
+Sosnowiec,Poland,227295,50.272243,19.155039,Eastern Europe,Europe
+Radom,Poland,226794,51.400963,21.15809,Eastern Europe,Europe
+Torun,Poland,208717,53.035831,18.604844,Eastern Europe,Europe
+Kielce,Poland,208598,50.833333,20.666667,Eastern Europe,Europe
+Gliwice,Poland,198835,50.297612,18.676583,Eastern Europe,Europe
+Zabrze,Poland,192177,50.306355,18.783333,Eastern Europe,Europe
+Bytom,Poland,189186,50.348017,18.932822,Eastern Europe,Europe
+Bielsko-Biala,Poland,176515,49.822449,19.046863,Eastern Europe,Europe
+Olsztyn,Poland,171803,53.779949,20.494162,Eastern Europe,Europe
+Rzeszow,Poland,158382,50.037246,22.004949,Eastern Europe,Europe
+Ruda Slaska,Poland,146189,50.307941,18.855156,Eastern Europe,Europe
+Rybnik,Poland,142510,50.092076,18.547479,Eastern Europe,Europe
+Tychy,Poland,131696,50.137167,18.96641,Eastern Europe,Europe
+Dabrowa Gornicza,Poland,130601,50.326206,19.224381,Eastern Europe,Europe
+Opole,Poland,127676,50.666667,17.95,Eastern Europe,Europe
+Elblag,Poland,127558,54.1522,19.408841,Eastern Europe,Europe
+Plock,Poland,127474,52.55,19.7,Eastern Europe,Europe
+Walbrzych,Poland,127431,50.771407,16.28432,Eastern Europe,Europe
+Gorzow Wielkopolski,Poland,124430,52.73679,15.228775,Eastern Europe,Europe
+Wloclawek,Poland,120339,52.651435,19.072755,Eastern Europe,Europe
+Zielona Gora,Poland,118433,51.939345,15.505772,Eastern Europe,Europe
+Tarnow,Poland,117799,50.006105,20.95527,Eastern Europe,Europe
+Chorzow,Poland,113430,50.305817,18.974203,Eastern Europe,Europe
+Kalisz,Poland,108759,51.76109,18.091018,Eastern Europe,Europe
+Koszalin,Poland,107450,54.193589,16.184916,Eastern Europe,Europe
+Legnica,Poland,106033,51.210062,16.161898,Eastern Europe,Europe
+Grudziadz,Poland,99486,53.483333,18.774123,Eastern Europe,Europe
+Slupsk,Poland,98608,54.467761,17.027457,Eastern Europe,Europe
+Jaworzno,Poland,96541,50.206025,19.270062,Eastern Europe,Europe
+Jelenia Gora,Poland,87310,50.89828,15.729929,Eastern Europe,Europe
+Nowy Sacz,Poland,84376,49.621766,20.697053,Eastern Europe,Europe
+Konin,Poland,81258,52.208577,18.254103,Eastern Europe,Europe
+Piotrkow Trybunalski,Poland,80128,51.410445,19.694952,Eastern Europe,Europe
+Inowroclaw,Poland,77597,52.798858,18.263875,Eastern Europe,Europe
+Lubin,Poland,77532,51.400825,16.203381,Eastern Europe,Europe
+Siedlce,Poland,76772,52.168215,22.277296,Eastern Europe,Europe
+Pila,Poland,75532,53.154997,16.746074,Eastern Europe,Europe
+Myslowice,Poland,75281,50.236209,19.141123,Eastern Europe,Europe
+Ostrowiec Swietokrzyski,Poland,73989,50.939932,21.387944,Eastern Europe,Europe
+Siemianowice Slaskie,Poland,73121,50.304126,19.035834,Eastern Europe,Europe
+Ostrow Wielkopolski,Poland,72898,51.649762,17.808934,Eastern Europe,Europe
+Stargard Szczecinski,Poland,71224,53.341761,15.052135,Eastern Europe,Europe
+Pabianice,Poland,70542,51.655351,19.345602,Eastern Europe,Europe
+Gniezno,Poland,70269,52.53944,17.611262,Eastern Europe,Europe
+Suwalki,Poland,69222,54.099444,22.933056,Eastern Europe,Europe
+Glogow,Poland,68530,51.663026,16.075688,Eastern Europe,Europe
+Kholm,Poland,68043,51.135831,23.482511,Eastern Europe,Europe
+Tomaszow Mazowiecki,Poland,67197,51.538614,20.017606,Eastern Europe,Europe
+Stalowa Wola,Poland,66495,50.551635,22.051089,Eastern Europe,Europe
+Zamosc,Poland,66034,50.724679,23.260629,Eastern Europe,Europe
+Kedzierzyn-Kozle,Poland,65636,50.35,18.2,Eastern Europe,Europe
+Lomza,Poland,63723,53.173552,22.06538,Eastern Europe,Europe
+Leszno,Poland,63565,51.848268,16.57022,Eastern Europe,Europe
+Zory,Poland,63174,50.044976,18.694315,Eastern Europe,Europe
+Belchatow,Poland,62896,51.366503,19.374485,Eastern Europe,Europe
+Mielec,Poland,60993,50.286188,21.432657,Eastern Europe,Europe
+Tarnowskie Gory,Poland,60938,50.448546,18.851463,Eastern Europe,Europe
+Swidnica,Poland,60351,50.841705,16.479066,Eastern Europe,Europe
+Tczew,Poland,60133,54.092291,18.79467,Eastern Europe,Europe
+Piekary Slaskie,Poland,59757,50.384664,18.944183,Eastern Europe,Europe
+Raciborz,Poland,58464,50.090569,18.207455,Eastern Europe,Europe
+Bedzin,Poland,58236,50.319705,19.145249,Eastern Europe,Europe
+Zgierz,Poland,58036,51.84469,19.408752,Eastern Europe,Europe
+Biala Podlaska,Poland,57541,52.03129,23.121418,Eastern Europe,Europe
+Elk,Poland,55769,53.826478,22.365416,Eastern Europe,Europe
+Swietochlowice,Poland,55600,50.292455,18.914684,Eastern Europe,Europe
+Pruszkow,Poland,54851,52.162608,20.812948,Eastern Europe,Europe
+Ostroleka,Poland,53740,53.086206,21.575663,Eastern Europe,Europe
+Starachowice,Poland,53738,51.051914,21.088273,Eastern Europe,Europe
+Zawiercie,Poland,53159,50.488242,19.431832,Eastern Europe,Europe
+Legionowo,Poland,50786,52.401488,20.926636,Eastern Europe,Europe
+Tarnobrzeg,Poland,50459,50.572007,21.684761,Eastern Europe,Europe
+Pulawy,Poland,49759,51.416667,21.966667,Eastern Europe,Europe
+Wodzislaw Slaski,Poland,49521,50.010983,18.455074,Eastern Europe,Europe
+Skarzysko-Kamienna,Poland,49410,51.117238,20.895717,Eastern Europe,Europe
+Radomsko,Poland,49175,51.066749,19.454424,Eastern Europe,Europe
+Skierniewice,Poland,49042,51.966667,20.15,Eastern Europe,Europe
+Kutno,Poland,48323,52.228954,19.361672,Eastern Europe,Europe
+Starogard Gdanski,Poland,48202,53.968898,18.535355,Eastern Europe,Europe
+Nysa,Poland,47954,50.47226,17.33618,Eastern Europe,Europe
+Krosno,Poland,47784,49.688663,21.770579,Eastern Europe,Europe
+Debica,Poland,47366,50.052379,21.414763,Eastern Europe,Europe
+Ciechanow,Poland,46438,52.878352,20.618754,Eastern Europe,Europe
+Rumia,Poland,44791,54.570608,18.410544,Eastern Europe,Europe
+Zdunska Wola,Poland,44515,51.59741,18.931347,Eastern Europe,Europe
+Sieradz,Poland,44436,51.6,18.75,Eastern Europe,Europe
+Kolobrzeg,Poland,44377,54.175112,15.591352,Eastern Europe,Europe
+Wejherowo,Poland,44083,54.605211,18.235514,Eastern Europe,Europe
+Otwock,Poland,42776,52.118856,21.308008,Eastern Europe,Europe
+Zyrardow,Poland,41179,52.055392,20.441451,Eastern Europe,Europe
+Oswiecim,Poland,41143,50.036838,19.230829,Eastern Europe,Europe
+Swinoujscie,Poland,40919,53.909148,14.240035,Eastern Europe,Europe
+Boleslawiec,Poland,40682,51.264183,15.569703,Eastern Europe,Europe
+Nowa Sol,Poland,40354,51.803937,15.715998,Eastern Europe,Europe
+Sopot,Poland,40142,54.434676,18.57076,Eastern Europe,Europe
+Jaroslaw,Poland,40134,50.016381,22.677813,Eastern Europe,Europe
+Swidnik,Poland,40061,51.22057,22.700337,Eastern Europe,Europe
+Chrzanow,Poland,39973,50.139468,19.40626,Eastern Europe,Europe
+Knurow,Poland,39744,50.219708,18.65067,Eastern Europe,Europe
+Sanok,Poland,39684,49.558958,22.202951,Eastern Europe,Europe
+Chojnice,Poland,39407,53.695062,17.566093,Eastern Europe,Europe
+Zary,Poland,38779,51.638165,15.141717,Eastern Europe,Europe
+Malbork,Poland,38655,54.03596,19.03452,Eastern Europe,Europe
+Mikolow,Poland,38650,50.17103,18.904098,Eastern Europe,Europe
+Szczecinek,Poland,38496,53.707908,16.699373,Eastern Europe,Europe
+Sochaczew,Poland,38267,52.233333,20.25,Eastern Europe,Europe
+Brzeg,Poland,38259,50.857495,17.46976,Eastern Europe,Europe
+Jaslo,Poland,37851,49.743718,21.47095,Eastern Europe,Europe
+Olkusz,Poland,37744,50.27916,19.563162,Eastern Europe,Europe
+Kwidzyn,Poland,37601,53.724949,18.931137,Eastern Europe,Europe
+Minsk Mazowiecki,Poland,37027,52.181875,21.565981,Eastern Europe,Europe
+Olesnica,Poland,36956,51.207733,17.386545,Eastern Europe,Europe
+Wolomin,Poland,36592,52.346753,21.239244,Eastern Europe,Europe
+Piaseczno,Poland,36279,51.822171,21.195831,Eastern Europe,Europe
+Krasnik,Poland,35834,50.922758,22.22648,Eastern Europe,Europe
+Cieszyn,Poland,35586,49.74634,18.636093,Eastern Europe,Europe
+Lebork,Poland,35161,54.539214,17.750121,Eastern Europe,Europe
+Dzierzoniow,Poland,34888,50.732045,16.648718,Eastern Europe,Europe
+Czechowice-Dziedzice,Poland,34703,49.913416,19.004789,Eastern Europe,Europe
+Police,Poland,34350,53.542062,14.555212,Eastern Europe,Europe
+Czeladz,Poland,34308,50.315417,19.078245,Eastern Europe,Europe
+Nowy Targ,Poland,33763,49.477579,20.029205,Eastern Europe,Europe
+Ostroda,Poland,33524,53.699585,19.962986,Eastern Europe,Europe
+Myszkow,Poland,33273,50.575202,19.324607,Eastern Europe,Europe
+Zgorzelec,Poland,33247,51.153659,15.008839,Eastern Europe,Europe
+Ilawa,Poland,32557,53.586851,19.560983,Eastern Europe,Europe
+Olawa,Poland,31036,50.942078,17.299643,Eastern Europe,Europe
+Bielawa,Poland,30824,50.686712,16.621677,Eastern Europe,Europe
+Lukow,Poland,30551,51.928998,22.379556,Eastern Europe,Europe
+Srem,Poland,30404,52.088712,17.0173,Eastern Europe,Europe
+Lowicz,Poland,30397,52.113739,19.948742,Eastern Europe,Europe
+Gizycko,Poland,29972,54.03811,21.764411,Eastern Europe,Europe
+Augustow,Poland,29752,53.844711,22.980133,Eastern Europe,Europe
+Turek,Poland,29533,52.017722,18.50559,Eastern Europe,Europe
+Mlawa,Poland,29398,53.116667,20.383333,Eastern Europe,Europe
+Krotoszyn,Poland,29231,51.698677,17.437383,Eastern Europe,Europe
+Bochnia,Poland,29184,49.97215,20.426816,Eastern Europe,Europe
+Swarzedz,Poland,29010,52.414169,17.089639,Eastern Europe,Europe
+Wrzesnia,Poland,28703,52.323234,17.569913,Eastern Europe,Europe
+Klodzko,Poland,28627,50.436362,16.653612,Eastern Europe,Europe
+Gorlice,Poland,28609,49.658084,21.159693,Eastern Europe,Europe
+Ketrzyn,Poland,28172,54.079293,21.370583,Eastern Europe,Europe
+Nowy Dwor Mazowiecki,Poland,27633,52.430356,20.715855,Eastern Europe,Europe
+Zakopane,Poland,27581,49.296247,19.956785,Eastern Europe,Europe
+Brodnica,Poland,27341,53.25,19.4,Eastern Europe,Europe
+Bilgoraj,Poland,26987,50.53583,22.727577,Eastern Europe,Europe
+Bielsk Podlaski,Poland,26745,52.770017,23.190889,Eastern Europe,Europe
+Grodzisk Mazowiecki,Poland,26684,52.106384,20.623141,Eastern Europe,Europe
+Wyszkow,Poland,26628,52.596407,21.457539,Eastern Europe,Europe
+Lubon,Poland,26431,52.347049,16.892671,Eastern Europe,Europe
+Zagan,Poland,26251,51.615804,15.314769,Eastern Europe,Europe
+Szczytno,Poland,26044,53.562589,20.987474,Eastern Europe,Europe
+Kluczbork,Poland,25978,50.97429,18.213765,Eastern Europe,Europe
+Walcz,Poland,25971,53.277869,16.471218,Eastern Europe,Europe
+Swiecie,Poland,25843,53.409527,18.44512,Eastern Europe,Europe
+Jarocin,Poland,25665,51.97076,17.498773,Eastern Europe,Europe
+Bartoszyce,Poland,25660,54.250693,20.814911,Eastern Europe,Europe
+Pszczyna,Poland,25288,49.976483,18.947323,Eastern Europe,Europe
+Sandomierz,Poland,25087,50.685808,21.738864,Eastern Europe,Europe
+Nowa Ruda,Poland,24753,50.579022,16.502913,Eastern Europe,Europe
+Wagrowiec,Poland,24428,52.811659,17.207376,Eastern Europe,Europe
+Wielun,Poland,24384,51.221009,18.566548,Eastern Europe,Europe
+Jawor,Poland,24269,51.051317,16.193471,Eastern Europe,Europe
+Bialogard,Poland,24265,54.00937,15.986562,Eastern Europe,Europe
+Lubliniec,Poland,24133,50.672289,18.68672,Eastern Europe,Europe
+Koscian,Poland,24096,52.088293,16.648657,Eastern Europe,Europe
+Skawina,Poland,23647,49.976489,19.823317,Eastern Europe,Europe
+Kolo,Poland,23493,52.207244,18.631954,Eastern Europe,Europe
+Zabki,Poland,23473,52.292714,21.105392,Eastern Europe,Europe
+Koscierzyna,Poland,23361,54.124787,17.972062,Eastern Europe,Europe
+Prudnik,Poland,23343,50.323175,17.576214,Eastern Europe,Europe
+Piastow,Poland,23250,52.187959,20.840462,Eastern Europe,Europe
+Swiebodzice,Poland,23228,50.859755,16.328198,Eastern Europe,Europe
+Marki,Poland,23177,52.321267,21.102666,Eastern Europe,Europe
+Zambrow,Poland,22857,52.985607,22.242249,Eastern Europe,Europe
+Lubartow,Poland,22839,51.462888,22.607754,Eastern Europe,Europe
+Grajewo,Poland,22803,53.648062,22.459669,Eastern Europe,Europe
+Ostrow Mazowiecka,Poland,22653,52.803342,21.895544,Eastern Europe,Europe
+Opoczno,Poland,22592,51.375821,20.286737,Eastern Europe,Europe
+Goleniow,Poland,22505,53.563753,14.830032,Eastern Europe,Europe
+Luban,Poland,22245,51.120143,15.287678,Eastern Europe,Europe
+Plonsk,Poland,22217,52.622238,20.37532,Eastern Europe,Europe
+Hajnowka,Poland,22157,52.743281,23.581223,Eastern Europe,Europe
+Laziska Gorne,Poland,21972,50.14643,18.839423,Eastern Europe,Europe
+Mragowo,Poland,21965,53.866667,21.3,Eastern Europe,Europe
+Andrychow,Poland,21954,49.854141,19.338582,Eastern Europe,Europe
+Rydultowy,Poland,21887,50.060637,18.425658,Eastern Europe,Europe
+Sroda Wielkopolska,Poland,21757,52.227622,17.279907,Eastern Europe,Europe
+Kamienna Gora,Poland,21743,50.783136,16.030371,Eastern Europe,Europe
+Leczna,Poland,21719,51.304588,22.883235,Eastern Europe,Europe
+Polkowice,Poland,21565,51.50618,16.072623,Eastern Europe,Europe
+Rawicz,Poland,21380,51.611313,16.861194,Eastern Europe,Europe
+Gryfino,Poland,21270,53.253865,14.490097,Eastern Europe,Europe
+Dzialdowo,Poland,21127,53.239581,20.170041,Eastern Europe,Europe
+Gostyn,Poland,20771,51.882468,17.012255,Eastern Europe,Europe
+Konskie,Poland,20756,51.191432,20.408217,Eastern Europe,Europe
+Ozorkow,Poland,20608,51.962778,19.295112,Eastern Europe,Europe
+Chelmno,Poland,20576,53.35,18.433333,Eastern Europe,Europe
+Aleksandrow Lodzki,Poland,20292,51.81773,19.300709,Eastern Europe,Europe
+Strzelce Opolskie,Poland,20241,50.513404,18.305401,Eastern Europe,Europe
+Tomaszow Lubelski,Poland,20006,50.453239,23.414238,Eastern Europe,Europe
+Pionki,Poland,19966,51.476614,21.450739,Eastern Europe,Europe
+Chodziez,Poland,19776,52.993089,16.91405,Eastern Europe,Europe
+Bierun,Poland,19659,50.088872,19.093498,Eastern Europe,Europe
+Naklo nad Notecia,Poland,19565,53.141874,17.602976,Eastern Europe,Europe
+Deblin,Poland,19561,51.560755,21.857117,Eastern Europe,Europe
+Krasnystaw,Poland,19532,50.985028,23.172715,Eastern Europe,Europe
+Kety,Poland,19249,49.87982,19.218778,Eastern Europe,Europe
+Wadowice,Poland,19238,49.884086,19.491489,Eastern Europe,Europe
+Pisz,Poland,19232,53.627444,21.812528,Eastern Europe,Europe
+Bogatynia,Poland,19221,50.905611,14.959402,Eastern Europe,Europe
+Sokolka,Poland,19080,53.407154,23.502278,Eastern Europe,Europe
+Pultusk,Poland,19039,52.704141,21.083007,Eastern Europe,Europe
+Pyskowice,Poland,19018,50.4,18.633333,Eastern Europe,Europe
+Sierpc,Poland,18866,52.852857,19.668927,Eastern Europe,Europe
+Trzebinia,Poland,18828,50.164789,19.458169,Eastern Europe,Europe
+Kozienice,Poland,18677,51.583602,21.549937,Eastern Europe,Europe
+Wieliczka,Poland,18677,49.984057,20.062219,Eastern Europe,Europe
+Miedzyrzecz,Poland,18669,52.447891,15.581652,Eastern Europe,Europe
+Sulejowek,Poland,18630,52.246122,21.280447,Eastern Europe,Europe
+Hrubieszow,Poland,18605,50.805019,23.892508,Eastern Europe,Europe
+Szamotuly,Poland,18588,52.61267,16.581905,Eastern Europe,Europe
+Lask,Poland,18577,51.588037,19.125084,Eastern Europe,Europe
+Orzesze,Poland,18438,50.155949,18.779235,Eastern Europe,Europe
+Zlotow,Poland,18395,53.361739,17.045241,Eastern Europe,Europe
+Braniewo,Poland,18356,54.379722,19.82,Eastern Europe,Europe
+Krapkowice,Poland,18275,50.474689,17.965447,Eastern Europe,Europe
+Lancut,Poland,18266,50.06819,22.228955,Eastern Europe,Europe
+Sokolow Podlaski,Poland,18241,52.407477,22.251923,Eastern Europe,Europe
+Reda,Poland,18116,54.601882,18.354363,Eastern Europe,Europe
+Kostrzyn,Poland,18099,52.590891,14.651163,Eastern Europe,Europe
+Sulechow,Poland,18055,52.085595,15.618175,Eastern Europe,Europe
+Oborniki,Poland,17915,52.647394,16.814061,Eastern Europe,Europe
+Jozefow,Poland,17910,51.806452,21.220953,Eastern Europe,Europe
+Libiaz,Poland,17834,50.100376,19.322176,Eastern Europe,Europe
+Rawa Mazowiecka,Poland,17770,51.764368,20.254933,Eastern Europe,Europe
+Myslenice,Poland,17686,49.831956,19.9441,Eastern Europe,Europe
+Kobylka,Poland,17659,52.329545,21.191248,Eastern Europe,Europe
+Pleszew,Poland,17640,51.895386,17.782928,Eastern Europe,Europe
+Slubice,Poland,17567,52.355255,14.564826,Eastern Europe,Europe
+Zielonka,Poland,17518,52.303157,21.158459,Eastern Europe,Europe
+Radlin,Poland,17479,50.027632,18.447699,Eastern Europe,Europe
+Konstantynow Lodzki,Poland,17415,51.747873,19.332181,Eastern Europe,Europe
+Radzionkow,Poland,17167,50.416667,18.916667,Eastern Europe,Europe
+Miedzyrzec Podlaski,Poland,17158,51.986397,22.782482,Eastern Europe,Europe
+Busko-Zdroj,Poland,17095,50.466667,20.716667,Eastern Europe,Europe
+Strzegom,Poland,17004,50.959294,16.347235,Eastern Europe,Europe
+Trzcianka,Poland,16914,53.040627,16.456285,Eastern Europe,Europe
+Brzesko,Poland,16866,49.970044,20.607661,Eastern Europe,Europe
+Jedrzejow,Poland,16792,50.640023,20.305868,Eastern Europe,Europe
+Boguszow-Gorce,Poland,16726,50.755135,16.204937,Eastern Europe,Europe
+Bytow,Poland,16724,54.176362,17.487638,Eastern Europe,Europe
+Gryfice,Poland,16720,53.91624,15.198219,Eastern Europe,Europe
+Przasnysz,Poland,16718,53.020284,20.882391,Eastern Europe,Europe
+Nowogard,Poland,16703,53.668859,15.123372,Eastern Europe,Europe
+Gubin,Poland,16629,51.949629,14.727588,Eastern Europe,Europe
+Zlotoryja,Poland,16612,51.123612,15.915771,Eastern Europe,Europe
+Rypin,Poland,16589,53.067489,19.415666,Eastern Europe,Europe
+Konstancin-Jeziorna,Poland,16548,52.093277,21.118037,Eastern Europe,Europe
+Lidzbark Warminski,Poland,16540,54.128687,20.57807,Eastern Europe,Europe
+Lapy,Poland,16434,52.991104,22.884219,Eastern Europe,Europe
+Namyslow,Poland,16376,51.075035,17.714347,Eastern Europe,Europe
+Zabkowice Slaskie,Poland,16321,50.591954,16.818407,Eastern Europe,Europe
+Ustka,Poland,16250,54.582862,16.863289,Eastern Europe,Europe
+Swidwin,Poland,16076,53.776279,15.775524,Eastern Europe,Europe
+Radzyn Podlaski,Poland,16071,51.783333,22.616667,Eastern Europe,Europe
+Ledziny,Poland,15928,50.129707,19.10729,Eastern Europe,Europe
+Olecko,Poland,15923,54.036431,22.508387,Eastern Europe,Europe
+Garwolin,Poland,15912,51.897384,21.614392,Eastern Europe,Europe
+Przeworsk,Poland,15805,50.059053,22.49486,Eastern Europe,Europe
+Choszczno,Poland,15733,53.169051,15.420537,Eastern Europe,Europe
+Ustron,Poland,15637,49.721526,18.801983,Eastern Europe,Europe
+Nisko,Poland,15573,50.518509,22.144659,Eastern Europe,Europe
+Staszow,Poland,15553,50.56342,21.168666,Eastern Europe,Europe
+Leczyca,Poland,15528,52.059352,19.20184,Eastern Europe,Europe
+Milanowek,Poland,15451,52.130695,20.662227,Eastern Europe,Europe
+Siemiatycze,Poland,15421,52.42719,22.862311,Eastern Europe,Europe
+Chelmza,Poland,15403,53.18596,18.605931,Eastern Europe,Europe
+Lomianki,Poland,15315,52.343844,20.882817,Eastern Europe,Europe
+Ropczyce,Poland,15254,50.05257,21.609053,Eastern Europe,Europe
+Nowy Tomysl,Poland,15179,52.316477,16.133629,Eastern Europe,Europe
+Solec Kujawski,Poland,15125,53.079814,18.220852,Eastern Europe,Europe
+Glucholazy,Poland,15120,50.316769,17.388328,Eastern Europe,Europe
+Glowno,Poland,15103,51.966926,19.726598,Eastern Europe,Europe
+Kartuzy,Poland,15002,54.333333,18.2,Eastern Europe,Europe
+Lubsko,Poland,14994,51.785269,14.975639,Eastern Europe,Europe
+Wladyslawowo,Poland,14889,54.791759,18.403942,Eastern Europe,Europe
+Grojec,Poland,14880,51.862518,20.867569,Eastern Europe,Europe
+Lipno,Poland,14821,52.845174,19.182561,Eastern Europe,Europe
+Kepno,Poland,14813,51.278425,17.985831,Eastern Europe,Europe
+Skoczow,Poland,14810,49.800892,18.787705,Eastern Europe,Europe
+Czluchow,Poland,14759,53.672639,17.361185,Eastern Europe,Europe
+Morag,Poland,14745,53.91711,19.926025,Eastern Europe,Europe
+Nidzica,Poland,14720,53.360936,20.426476,Eastern Europe,Europe
+Limanowa,Poland,14714,49.704128,20.42245,Eastern Europe,Europe
+Slupca,Poland,14476,52.290352,17.873101,Eastern Europe,Europe
+Wschowa,Poland,14458,51.805426,16.317381,Eastern Europe,Europe
+Ostrzeszow,Poland,14447,51.425661,17.930084,Eastern Europe,Europe
+Darlowo,Poland,14398,54.421168,16.409652,Eastern Europe,Europe
+Barlinek,Poland,14385,52.987733,15.204479,Eastern Europe,Europe
+Chojnow,Poland,14209,51.273155,15.935862,Eastern Europe,Europe
+Pszow,Poland,14028,50.03783,18.401537,Eastern Europe,Europe
+Znin,Poland,14008,52.853617,17.716677,Eastern Europe,Europe
+Lezajsk,Poland,13958,50.260132,22.421242,Eastern Europe,Europe
+Wabrzezno,Poland,13911,53.280183,18.948288,Eastern Europe,Europe
+Grodzisk Wielkopolski,Poland,13826,52.227622,16.365335,Eastern Europe,Europe
+Debno,Poland,13804,52.735427,14.703947,Eastern Europe,Europe
+Goldap,Poland,13769,54.309055,22.303898,Eastern Europe,Europe
+Glubczyce,Poland,13697,50.202034,17.829379,Eastern Europe,Europe
+Wolsztyn,Poland,13689,52.112706,16.12361,Eastern Europe,Europe
+Tuchola,Poland,13686,53.586661,17.86059,Eastern Europe,Europe
+Slawno,Poland,13415,54.361546,16.67801,Eastern Europe,Europe
+Zdzieszowice,Poland,13401,50.424206,18.123756,Eastern Europe,Europe
+Koluszki,Poland,13343,51.766667,19.8,Eastern Europe,Europe
+Zlocieniec,Poland,13337,53.532862,16.011321,Eastern Europe,Europe
+Klobuck,Poland,13190,50.90298,18.937036,Eastern Europe,Europe
+Wlodawa,Poland,13142,51.55,23.55,Eastern Europe,Europe
+Golub-Dobrzyn,Poland,12937,53.109425,19.054212,Eastern Europe,Europe
+Pyrzyce,Poland,12893,53.145647,14.892897,Eastern Europe,Europe
+Szprotawa,Poland,12786,51.565553,15.536082,Eastern Europe,Europe
+Brzeg Dolny,Poland,12707,51.267976,16.721664,Eastern Europe,Europe
+Gora,Poland,12668,51.668392,16.538039,Eastern Europe,Europe
+Lubaczow,Poland,12595,50.159707,23.122425,Eastern Europe,Europe
+Wegrow,Poland,12512,52.401958,22.016667,Eastern Europe,Europe
+Mogilno,Poland,12465,52.660492,17.956662,Eastern Europe,Europe
+Strzelin,Poland,12394,50.783958,17.066399,Eastern Europe,Europe
+Brzeziny,Poland,12319,51.800545,19.749864,Eastern Europe,Europe
+Aleksandrow Kujawski,Poland,12285,52.877639,18.703163,Eastern Europe,Europe
+Wolow,Poland,12276,51.339044,16.646788,Eastern Europe,Europe
+Paslek,Poland,12267,54.061599,19.659322,Eastern Europe,Europe
+Trzebnica,Poland,12212,51.309886,17.062849,Eastern Europe,Europe
+Blonie,Poland,12195,52.194994,20.616058,Eastern Europe,Europe
+Krosno Odrzanskie,Poland,12178,52.052902,15.100955,Eastern Europe,Europe
+Milicz,Poland,12169,51.526373,17.276928,Eastern Europe,Europe
+Szydlowiec,Poland,12128,51.224862,20.858566,Eastern Europe,Europe
+Mosina,Poland,12097,52.244194,16.851333,Eastern Europe,Europe
+Mysliborz,Poland,12092,52.92174,14.863315,Eastern Europe,Europe
+Wegorzewo,Poland,11864,54.215669,21.737202,Eastern Europe,Europe
+Kowary,Poland,11834,50.795493,15.833476,Eastern Europe,Europe
+Janow Lubelski,Poland,11811,50.706673,22.412479,Eastern Europe,Europe
+Pinczow,Poland,11806,50.520961,20.526694,Eastern Europe,Europe
+Brzeszcze,Poland,11787,49.984333,19.142123,Eastern Europe,Europe
+Miechow,Poland,11735,50.356529,20.030126,Eastern Europe,Europe
+Brwinow,Poland,11669,52.142784,20.71795,Eastern Europe,Europe
+Wronki,Poland,11611,52.706768,16.384391,Eastern Europe,Europe
+Czarnkow,Poland,11562,52.902144,16.564126,Eastern Europe,Europe
+Nowa Deba,Poland,11489,50.427778,21.750328,Eastern Europe,Europe
+Puck,Poland,11415,54.718542,18.41085,Eastern Europe,Europe
+Wisla,Poland,11379,49.656294,18.859105,Eastern Europe,Europe
+Dabrowa Tarnowska,Poland,11291,50.174915,20.990776,Eastern Europe,Europe
+Drawsko Pomorskie,Poland,11275,53.529754,15.80987,Eastern Europe,Europe
+Warka,Poland,11048,51.785362,21.186876,Eastern Europe,Europe
+Nowe Miasto Lubawskie,Poland,10997,53.422694,19.592512,Eastern Europe,Europe
+Miedzychod,Poland,10994,52.599017,15.890664,Eastern Europe,Europe
+Koronowo,Poland,10965,53.31048,17.945527,Eastern Europe,Europe
+Miastko,Poland,10954,53.999114,16.972278,Eastern Europe,Europe
+Bukowno,Poland,10874,50.262676,19.467277,Eastern Europe,Europe
+Rogozno,Poland,10859,52.75226,16.990493,Eastern Europe,Europe
+Ciechocinek,Poland,10832,52.877244,18.792883,Eastern Europe,Europe
+Sycow,Poland,10809,51.308209,17.720236,Eastern Europe,Europe
+Gora Kalwaria,Poland,10777,51.981529,21.215053,Eastern Europe,Europe
+Wloszczowa,Poland,10661,50.852583,19.966843,Eastern Europe,Europe
+Kolno,Poland,10659,53.409314,21.932665,Eastern Europe,Europe
+Lobez,Poland,10609,53.638794,15.62231,Eastern Europe,Europe
+Bystrzyca Klodzka,Poland,10589,50.298252,16.653029,Eastern Europe,Europe
+Monki,Poland,10577,53.404957,22.79791,Eastern Europe,Europe
+Drezdenko,Poland,10541,52.83831,15.830785,Eastern Europe,Europe
+Dobre Miasto,Poland,10514,53.987652,20.390809,Eastern Europe,Europe
+Biskupiec,Poland,10340,53.864674,20.956922,Eastern Europe,Europe
+Trzebiatow,Poland,10322,54.059404,15.279377,Eastern Europe,Europe
+Karczew,Poland,10319,52.078202,21.250481,Eastern Europe,Europe
+Parczew,Poland,10249,51.642884,22.908449,Eastern Europe,Europe
+Olesno,Poland,10236,50.876976,18.420937,Eastern Europe,Europe
+Kudowa-Zdroj,Poland,10176,50.45,16.25,Eastern Europe,Europe
+Sulecin,Poland,10090,52.443562,15.118347,Eastern Europe,Europe
+Sztum,Poland,10081,53.920268,19.031101,Eastern Europe,Europe
+Poniatowa,Poland,10056,51.180192,22.128574,Eastern Europe,Europe
+Skwierzyna,Poland,10051,52.593923,15.502619,Eastern Europe,Europe
+Murowana Goslina,Poland,9989,52.575213,17.010543,Eastern Europe,Europe
+Krzeszowice,Poland,9978,50.13446,19.636713,Eastern Europe,Europe
+Strzelce Krajenskie,Poland,9978,52.876306,15.5326,Eastern Europe,Europe
+Makow Mazowiecki,Poland,9978,52.866667,21.1,Eastern Europe,Europe
+Ozimek,Poland,9963,50.678897,18.215928,Eastern Europe,Europe
+Nowy Dwor Gdanski,Poland,9822,54.21305,19.117714,Eastern Europe,Europe
+Sucha Beskidzka,Poland,9801,49.733333,19.6,Eastern Europe,Europe
+Kozuchow,Poland,9679,51.745394,15.594384,Eastern Europe,Europe
+Lwowek Slaski,Poland,9657,51.108956,15.582667,Eastern Europe,Europe
+Ryki,Poland,9619,51.623966,21.933517,Eastern Europe,Europe
+Ustrzyki Dolne,Poland,9610,49.430858,22.584761,Eastern Europe,Europe
+Wojkowice,Poland,9602,50.370433,19.061742,Eastern Europe,Europe
+Kruszwica,Poland,9494,52.675624,18.331314,Eastern Europe,Europe
+Orneta,Poland,9412,54.114827,20.133277,Eastern Europe,Europe
+Pieszyce,Poland,9406,50.718531,16.587301,Eastern Europe,Europe
+Czersk,Poland,9390,53.796296,17.972567,Eastern Europe,Europe
+Ziebice,Poland,9328,50.600714,17.040233,Eastern Europe,Europe
+Lubawa,Poland,9302,53.504283,19.749657,Eastern Europe,Europe
+Sepolno Krajenskie,Poland,9223,53.452046,17.539826,Eastern Europe,Europe
+Szubin,Poland,9206,53.009925,17.738652,Eastern Europe,Europe
+Wysokie Mazowieckie,Poland,9203,52.917069,22.511442,Eastern Europe,Europe
+Suchedniow,Poland,9184,51.040683,20.829716,Eastern Europe,Europe
+Wolbrom,Poland,9146,50.378801,19.765041,Eastern Europe,Europe
+Chelmek,Poland,9059,50.101628,19.248013,Eastern Europe,Europe
+Kamien Pomorski,Poland,9036,53.968946,14.772834,Eastern Europe,Europe
+Opalenica,Poland,8991,52.307043,16.413346,Eastern Europe,Europe
+Stary Sacz,Poland,8959,49.563247,20.63461,Eastern Europe,Europe
+Janikowo,Poland,8942,52.440681,17.028924,Eastern Europe,Europe
+Zychlin,Poland,8844,52.244244,19.62637,Eastern Europe,Europe
+Opole Lubelskie,Poland,8780,51.148001,21.969903,Eastern Europe,Europe
+Poreba,Poland,8718,50.488837,19.348249,Eastern Europe,Europe
+Polczyn-Zdroj,Poland,8682,53.766932,16.096622,Eastern Europe,Europe
+Kalety,Poland,8670,50.562701,18.892596,Eastern Europe,Europe
+Grodkow,Poland,8654,50.698662,17.384761,Eastern Europe,Europe
+Zawadzkie,Poland,8439,50.609916,18.477694,Eastern Europe,Europe
+Polaniec,Poland,8158,50.427146,21.282381,Eastern Europe,Europe
