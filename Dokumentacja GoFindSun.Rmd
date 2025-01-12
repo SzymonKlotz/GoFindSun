@@ -1,0 +1,78 @@
+---
+title: "Dokumentacja GoFindSun"
+output: html_document
+date: "2025-01-12"
+---
+
+Projekt GoFindSun
+________________________________________
+1. Nazwa projektu
+Nazwa skrócona: GoFindSun
+Nazwa pełna: GoFindSun: Analiza pogodowa i preferencyjna do planowania wyjazdów
+________________________________________
+2. Opis projektu
+Aplikacja "GoFindSun" umożliwia użytkownikom znalezienie najbardziej dogodnego miejsca na wyjazd na podstawie prognozy pogody i preferencji. Użytkownik wprowadza preferencje dotyczące liczby uczestników, terminu wyjazdu oraz lokalizacji startowej. Użytkownik ma do dyspozycji wybór pomiędzy różnymi formami wyjazdu, np. Rodzinny, Romantyczny, Kulturalny itd. Wyniki są prezentowane w formie tabeli i interaktywnej mapy, a użytkownik może jednym kliknięciem przejść do strony z noclegami na Airbnb.
+________________________________________
+3. Prawa autorskie
+Autorzy: Szymon Klotz
+Licencja: MIT
+Pozwala na swobodne użycie, modyfikowanie i rozpowszechnianie projektu, z zachowaniem informacji o autorach.
+________________________________________
+4. Architektura systemu
+Architektura rozwoju:
+•	Język programowania: R
+•	Biblioteki:
+o	httr – do pobierania danych z API
+o	jsonlite – do przetwarzania danych z formatu JSON
+o	dplyr – do przekształcania danych
+o	tidyr – do organizowania danych
+o	leaflet – do tworzenia interaktywnych map
+o	lubridate – do pracy z datami
+o	shiny – do tworzenia interfejsu użytkownika
+o	DT – do tworzenia interaktywnych tabel
+o	Shinythemes – do tworzenia wizualnych motywów
+Architektura uruchomieniowa:
+•	Oprogramowanie wymagane:
+o	R 4.3.0 lub wyższa
+o	RStudio (opcjonalnie)
+o	Przeglądarka internetowa (do obsługi interfejsu Shiny)
+________________________________________
+5. Specyfikacja wymagań
+Użytkownik:
+1.	Jako użytkownik, chcę wprowadzić preferencje dotyczące pogody i liczby uczestników, aby znaleźć najlepsze miejsca na wyjazd.
+2.	Jako użytkownik, chcę zobaczyć interaktywną mapę, która pokazuje wybrane lokalizacje.
+3.	Jako użytkownik, chcę wykluczyć lokalizacje blisko miejsca wyjazdu lub w podobnym klimacie.
+4.	Jako użytkownik, chcę mieć możliwość filtrowania lokalizacji według maksymalnej odległości.
+5.	Jako użytkownik, chcę w prosty sposób zobaczyć link do noclegów na Airbnb dla wybranych miejsc.
+Kryteria:
+•	Formularz filtrów działa prawidłowo i umożliwia wprowadzenie wymaganych danych.
+•	Wyniki są prezentowane w przejrzysty sposób jako mapa i tabela.
+•	Linki do Airbnb poprawnie uwzględniają lokalizację, daty wyjazdu oraz liczbę uczestników.
+________________________________________
+6. Testy
+Scenariusze testowe:
+1.	Test API pogodowego – Czy dane pogodowe są prawidłowo pobierane.
+2.	Test działania formularza preferencji.
+3.	Test wyświetlania mapy i interaktywności markerów.
+4.	Test generowania linków do Airbnb z poprawnymi parametrami.
+5.	Test wykluczania lokalizacji w promieniu 40 km od miejsca wyjazdu.
+________________________________________
+7. Propozycje dalszego rozwoju
+1.	Dodanie opisu tekstowego warunków pogodowych oraz sugestii aktywności dla każdego typu wyjazdu, generowanych dzięki ChatGPT API.
+2.	Praca nad ulepszeniem wizualnej strony interfejsu (np. nowe motywy i układy w Shiny).
+3.	Stworzenie bardziej przejrzystego i intuicyjnego interfejsu użytkownika.
+4.	Dodanie bardziej zaawansowanego systemu wykluczeń lokalizacji (np. wykluczanie podobnych miejsc).
+5.	Wprowadzenie nowych filtrów, takich jak maksymalna odległość od miejsca wyjazdu.
+6.	Integracja z danymi dotyczącymi jakości powietrza oraz analiza danych historycznych dla prognozowania jakości powietrza.
+7.	Automatyczne wykrywanie lokalizacji użytkownika jako miejsca wyjazdu.
+8.	Wykluczenie miejscowości z podobną punktacją znajdujących się blisko siebie.
+9.	Rozszerzenie wyszukiwań o kolejne kraje.
+10.	Personalizacja wyników dla powracających użytkowników poprzez zapisywanie preferencji.
+11.	Integracja wyników z kalendarzem użytkownika (np. Google Calendar).
+12.	Umożliwienie użytkownikom oceniania i komentowania proponowanych lokalizacji.
+13.	Rozszerzenie o rekomendacje atrakcji turystycznych i gastronomicznych w pobliżu wybranych miejsc.
+14.	Opcja automatycznego generowania planu podróży, uwzględniającego pogodę i atrakcje.
+15.	Dodanie opcji zapisu wyników w formacie PDF z mapą i tabelą wyników.
+________________________________________
+8. Wykorzystanie GitHuba
+Wszystkie etapy projektu (kodowanie, dokumentacja, wyniki testów) są zarządzane na GitHubie. Issues i Project Board umożliwiają śledzenie postępów i zgłaszanie uwag.
